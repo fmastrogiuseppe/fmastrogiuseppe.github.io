@@ -4,6 +4,8 @@ title: Cv
 permalink: /cv/
 ---
 
+<br> A detailed CV can be downloaded <a href="/cv_long.pdf" target="_blank">here</a>
+
 <br>
 
 **Research**
