@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cv
-permalink: /cv/
+title: Cv_with_link
+permalink: /cv_with_link/
 ---
 
 <br> A detailed CV can be downloaded <a href="/cv_long.pdf" target="_blank">here</a>
