@@ -8,7 +8,7 @@ permalink: /contact/
 
 **Email**
 
-f.mastrogiuseppe *- at -* ucl *- dot -* ac *- dot -* uk
+f.mastrogiuseppe *- at -* ucl *- dot -* ac *- dot -* uk @
 
 <br>
 
