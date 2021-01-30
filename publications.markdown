@@ -8,7 +8,7 @@ permalink: /publications/
 
 A fully updated list of publications is available on my [Google Scholar](http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en) page<br><br>
 
-L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Quality of internal representation shapes learning performance in feedback neural networks*”, under review (2020) <br>
+L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Quality of internal representation shapes learning performance in feedback neural networks*”, accepted in Physical Review Research (2020) <br>
 [[arxiv](https://arxiv.org/pdf/2011.06066)]
 
 F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, “*The interplay between randomness and structure during learning in RNNs*”, NeurIPS (2020)<br>
