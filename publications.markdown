@@ -12,7 +12,7 @@ L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Qu
 [[arxiv](https://arxiv.org/pdf/2011.06066)]
 
 F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, “*The interplay between randomness and structure during learning in RNNs*”, NeurIPS (2020)<br>
-[[journal](https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf)] [[arxiv](https://arxiv.org/pdf/2006.11036)]
+[[journal](https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf)] [[arxiv](https://arxiv.org/pdf/2006.11036)] [[github](https://github.com/frschu/neurips_2020_interplay_randomness_structure)]
 
 M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, accepted in Neural Computation (2020)<br>
 [[arxiv](https://arxiv.org/pdf/2007.02062)]
