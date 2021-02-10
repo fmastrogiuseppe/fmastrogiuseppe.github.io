@@ -6,7 +6,11 @@ permalink: /publications/
 
 <br>
 
-A fully updated list of publications is available on my [Google Scholar](http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en) page<br><br>
+A fully updated list of publications is available on my [Google Scholar](http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en) page
+
+<br>
+
+**Journal publications**
 
 L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Quality of internal representation shapes learning performance in feedback neural networks*”, accepted in Physical Review Research (2020) <br>
 [[arxiv](https://arxiv.org/pdf/2011.06066)]
@@ -16,9 +20,6 @@ F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, �
 
 M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, accepted in Neural Computation (2020)<br>
 [[arxiv](https://arxiv.org/pdf/2007.02062)]
-
-A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Complementary roles of dimensionality and population structure in neural computations*”, under review (2020)<br>
-[[bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf)]
 
 F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Dynamics of random recurrent networks with correlated low-rank structure*”, Physical Review Research (2020) <br>
 [[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013111)] [[arxiv](https://arxiv.org/pdf/1909.04358)]
@@ -37,3 +38,15 @@ A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Disentangl
 <br>**\*** = equal contribution, listed in random order
 
 <br>
+
+**Preprints**
+
+A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Complementary roles of dimensionality and population structure in neural computations*”, under review (2020)<br>
+[[bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf)]
+
+<br>
+
+**PhD thesis**
+
+École Normale Supérieure Paris<br>*Supervisors*: Srdjan Ostojic, Vincent Hakim<br>*Committee*: Tatjana Tchumatchenko, Guillaume Hennequin, Jean Pierre Nadal, Peter Latham, Khashayar Pakdaman <br>[[link](https://tel.archives-ouvertes.fr/tel-01820663/document)]
+

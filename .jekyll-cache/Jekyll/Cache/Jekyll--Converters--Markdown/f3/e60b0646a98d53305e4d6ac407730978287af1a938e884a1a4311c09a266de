@@ -1,18 +1,19 @@
-I"J<p><br /></p>
+I"b<p><br /></p>
 
-<p>A fully updated list of publications is available on my <a href="http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&amp;hl=en">Google Scholar</a> page<br /><br /></p>
+<p>A fully updated list of publications is available on my <a href="http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&amp;hl=en">Google Scholar</a> page</p>
 
-<p>L. Susman<strong>*</strong>, <u>F. Mastrogiuseppe</u><strong>*</strong>, N. Brenner and O. Barak, “<em>Quality of internal representation shapes learning performance in feedback neural networks</em>”, under review (2020) <br />
+<p><br /></p>
+
+<p><strong>Journal publications</strong></p>
+
+<p>L. Susman<strong>*</strong>, <u>F. Mastrogiuseppe</u><strong>*</strong>, N. Brenner and O. Barak, “<em>Quality of internal representation shapes learning performance in feedback neural networks</em>”, accepted in Physical Review Research (2020) <br />
 [<a href="https://arxiv.org/pdf/2011.06066">arxiv</a>]</p>
 
 <p>F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, “<em>The interplay between randomness and structure during learning in RNNs</em>”, NeurIPS (2020)<br />
-[<a href="https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf">journal</a>] [<a href="https://arxiv.org/pdf/2006.11036">arxiv</a>]</p>
+[<a href="https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf">journal</a>] [<a href="https://arxiv.org/pdf/2006.11036">arxiv</a>] [<a href="https://github.com/frschu/neurips_2020_interplay_randomness_structure">github</a>]</p>
 
 <p>M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “<em>Shaping dynamics with multiple populations in low-rank recurrent networks</em>”, accepted in Neural Computation (2020)<br />
 [<a href="https://arxiv.org/pdf/2007.02062">arxiv</a>]</p>
-
-<p>A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “<em>Complementary roles of dimensionality and population structure in neural computations</em>”, under review (2020)<br />
-[<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf">bioRxiv</a>]</p>
 
 <p>F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “<em>Dynamics of random recurrent networks with correlated low-rank structure</em>”, Physical Review Research (2020) <br />
 [<a href="https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013111">journal</a>] [<a href="https://arxiv.org/pdf/1909.04358">arxiv</a>]</p>
@@ -31,4 +32,20 @@
 <p><br /><strong>*</strong> = equal contribution, listed in random order</p>
 
 <p><br /></p>
+
+<p><strong>Preprints</strong></p>
+
+<p>A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “<em>Complementary roles of dimensionality and population structure in neural computations</em>”, under review (2020)<br />
+[<a href="https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf">bioRxiv</a>]</p>
+
+<p><br /></p>
+
+<p><strong>PhD thesis</strong></p>
+
+<p>École Normale Supérieure
+<u>Supervisors</u>: Srdjan Ostojic, Vincent Hakim
+<u>Committee</u>: Tatjana Tchumatchenko, Guillaume Hennequin, Jean Pierre Nadal, Peter Latham, Khashayar Pakdaman</p>
+
+<p>[<a href="https://tel.archives-ouvertes.fr/tel-01820663/document">link</a>]</p>
+
 :ET
