@@ -48,13 +48,13 @@ A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “
 
 **PhD thesis**
 
-École Normale Supérieure Paris<br><u>Supervisors</u>: Srdjan Ostojic, Vincent Hakim<br><u>Committee</u>: Tatjana Tchumatchenko, Guillaume Hennequin, Jean Pierre Nadal, Peter Latham, Khashayar Pakdaman <br>[[link](https://tel.archives-ouvertes.fr/tel-01820663/document)]
+*"From dynamics to computations in recurrent neural networks"*, École Normale Supérieure Paris<br><u>Supervisors</u>: Srdjan Ostojic, Vincent Hakim<br><u>Committee</u>: Tatjana Tchumatchenko, Guillaume Hennequin, Jean Pierre Nadal, Peter Latham, Khashayar Pakdaman <br>[[link](https://tel.archives-ouvertes.fr/tel-01820663/document)]
 
 <br>
 
 **Master thesis**
 
-Politecnico di Torino - Institut Curie Paris <br>
+*"Robust inference of causal models: applications to spontaneous activity of zebrafish brain"*, Politecnico di Torino - Institut Curie Paris <br>
 <u>Supervisor</u>: Isambert Hervé<br>
 <u>Committee</u>: Riccardo Zecchina<br>
 [[link](/tesi.pdf)]
