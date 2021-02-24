@@ -23,9 +23,6 @@ M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “
 F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Dynamics of random recurrent networks with correlated low-rank structure*”, Physical Review Research (2020) <br>
 [[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013111)] [[arxiv](https://arxiv.org/pdf/1909.04358)]
 
-A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Disentangling the roles of dimensionality and cell classes in neural computations*”, NeurIPS workshop Real Neurons and Hidden Units (2019)<br>
-[[journal](https://openreview.net/pdf?id=SklZVQtLLr)] 
-
 <u>F. Mastrogiuseppe</u> and S. Ostojic, “*A geometrical description of global dynamics in trained networks*”, Neural Computation (2019)<br>
 [[journal](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01187)] [[arxiv](https://arxiv.org/pdf/1809.02386)] [[github](https://github.com/fmastrogiuseppe/TrainedNetworks)]
 
@@ -42,6 +39,9 @@ A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Disentangl
 
 A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Complementary roles of dimensionality and population structure in neural computations*”, under review (2020)<br>
 [[bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf)]
+
+A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Disentangling the roles of dimensionality and cell classes in neural computations*”, NeurIPS workshop Real Neurons and Hidden Units (2019)<br>
+[[OpenReview](https://openreview.net/pdf?id=SklZVQtLLr)] 
 
 <br>
 
