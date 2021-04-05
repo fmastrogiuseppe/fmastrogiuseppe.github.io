@@ -17,8 +17,7 @@ L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Qu
 F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, “*The interplay between randomness and structure during learning in RNNs*”, NeurIPS (2020)<br>
 [[journal](https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf)] [[arxiv](https://arxiv.org/pdf/2006.11036)] [[github](https://github.com/frschu/neurips_2020_interplay_randomness_structure)]
 
-M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, accepted in Neural Computation (2020)<br>
-[[arxiv](https://arxiv.org/pdf/2007.02062)]
+M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, Neural Computation (2020)<br>[[journal](https://direct.mit.edu/neco/article/doi/10.1162/neco_a_01381/98291/Shaping-Dynamics-With-Multiple-Populations-in-Low)] [[arxiv](https://arxiv.org/pdf/2007.02062)] [[github](https://github.com/emebeiran/low-rank2020)]
 
 F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Dynamics of random recurrent networks with correlated low-rank structure*”, Physical Review Research (2020) <br>
 [[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013111)] [[arxiv](https://arxiv.org/pdf/1909.04358)]
