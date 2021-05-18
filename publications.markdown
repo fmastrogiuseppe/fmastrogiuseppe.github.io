@@ -12,12 +12,12 @@ A fully updated list of publications is available on my [Google Scholar](http://
 
 **Journal publications**
 
-L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Quality of internal representation shapes learning performance in feedback neural networks*”, Physical Review Research (2021) <br>[[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013176)] [[arxiv](https://arxiv.org/pdf/2011.06066)]
+L. Susman**\***, <u>F. Mastrogiuseppe</u>**\***, N. Brenner and O. Barak, “*Quality of internal representation shapes learning performance in feedback neural networks*”, Physical Review Research (2021) <br>**\*** = equal contribution, random order<br>[[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013176)] [[arxiv](https://arxiv.org/pdf/2011.06066)]
+
+M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, Neural Computation (2021)<br>[[journal](https://direct.mit.edu/neco/article/33/6/1572/98291/Shaping-Dynamics-With-Multiple-Populations-in-Low)] [[arxiv](https://arxiv.org/pdf/2007.02062)] [[github](https://github.com/emebeiran/low-rank2020)]
 
 F. Schuessler, <u>F. Mastrogiuseppe</u>, A. Dubreuil, S. Ostojic and O. Barak, “*The interplay between randomness and structure during learning in RNNs*”, NeurIPS (2020)<br>
 [[journal](https://proceedings.neurips.cc/paper/2020/file/9ac1382fd8fc4b631594aa135d16ad75-Paper.pdf)] [[arxiv](https://arxiv.org/pdf/2006.11036)] [[github](https://github.com/frschu/neurips_2020_interplay_randomness_structure)]
-
-M. Beiran, A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Shaping dynamics with multiple populations in low-rank recurrent networks*”, Neural Computation (2020)<br>[[journal](https://direct.mit.edu/neco/article/doi/10.1162/neco_a_01381/98291/Shaping-Dynamics-With-Multiple-Populations-in-Low)] [[arxiv](https://arxiv.org/pdf/2007.02062)] [[github](https://github.com/emebeiran/low-rank2020)]
 
 F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Dynamics of random recurrent networks with correlated low-rank structure*”, Physical Review Research (2020) <br>
 [[journal](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013111)] [[arxiv](https://arxiv.org/pdf/1909.04358)]
@@ -30,7 +30,7 @@ F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, �
 <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Intrinsically generated fluctuations in excitatory-inhibitory networks*”, PLOS Computational Biology (2017)<br>
 [[journal](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1005498/2/pcbi.1005498.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210125%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210125T093939Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=5eed926a45c577eb589485c11effa9c0c31fd6aeae24211b62219feade497fe0c3264c256c69ca897cdbca6e6339db746ef2684bdd59034075e329563e0409d7b25d807c00bcaffdb0bd523eb66526e92a627abda3e1277350edeb5b285fc57148b19d4df98fa57a5e2b567e6487fc0640ddb8546e5f1f9bce1cb23406120dba5ec533208e728253007890d9662826c047eea266a5a8c90cff0566387ea131669536230f0eec025d801413d757b240b464a586d2d32ec5d7637adc58043127f34f4a2ce2c55375daf81ce0628ac7ea1cf9ebee2129ce45966f68557865c88436ccf0d7df55cb952a548b8bff0675b78b38ee3f3966b525cf3c44bd9440c0b7e9)] [[arxiv](https://arxiv.org/pdf/1605.04221)]
 
-<br>**\*** = equal contribution, listed in random order
+<br>
 
 <br>
 

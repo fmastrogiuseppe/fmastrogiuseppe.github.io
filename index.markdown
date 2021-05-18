@@ -20,6 +20,6 @@ Hi! I am a postdoc in Theoretical Neuroscience. I study how learning shape synap
 <br>
 
 <p align="center">
-[ <a href="mailto:f.mastrogiuseppe@ucl.ac.uk">email</a> ]  [ <a href="http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en">Google Scholar</a> ]  [ <a href="https://github.com/fmastrogiuseppe">Github</a> ]
+[ <a href="mailto:f.mastrogiuseppe@ucl.ac.uk">email</a> ]  [ <a href="http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en">Google Scholar</a> ]  [ <a href="https://github.com/fmastrogiuseppe">github</a> ]
 </p>
 
