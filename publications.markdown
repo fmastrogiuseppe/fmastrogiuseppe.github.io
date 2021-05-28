@@ -32,8 +32,6 @@ F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, �
 
 <br>
 
-<br>
-
 **Preprints**
 
 A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Complementary roles of dimensionality and population structure in neural computations*”, under review (2020)<br>
