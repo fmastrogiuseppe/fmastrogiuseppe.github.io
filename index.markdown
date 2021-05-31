@@ -13,7 +13,7 @@ layout: home
 
 <br>
 
-Hi! I am a postdoc in Theoretical Neuroscience. I study how learning shape synaptic connectivity and dynamics in network models of cortical circuits. I am currently working at the *Gatsby Computational Neuroscience Unit* (UCL), where I am advised by P. Latham. Before that, I obtained my PhD at *École Normale Supérieure* (Paris), under the supervision of S. Ostojic.
+Hi! I am a postdoc in Theoretical Neuroscience. I study how learning shapes synaptic connectivity and dynamics in network models of cortical circuits. I am currently working at the *Gatsby Computational Neuroscience Unit* (UCL), where I am advised by P. Latham. Before that, I obtained my PhD at *École Normale Supérieure* (Paris), under the supervision of S. Ostojic.
 
 <br><br>
 
