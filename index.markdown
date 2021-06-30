@@ -8,7 +8,7 @@ layout: home
 <br>
 
 <p align="center">
-<img src="circle-cropped-3.png" style="zoom:15%;" />
+<img src="circle-cropped.png" style="zoom:70%;" />
 </p>
 
 <br>
