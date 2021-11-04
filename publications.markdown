@@ -6,7 +6,7 @@ permalink: /publications/
 
 <br>
 
-A fully updated list of publications is available on my [Google Scholar](http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en) page
+For a fully updated list of publications, see also my [Google Scholar](http://scholar.google.fr/citations?user=S5pLgmUAAAAJ&hl=en) page
 
 <br>
 
