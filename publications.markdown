@@ -35,13 +35,6 @@ F. Schuessler, A. Dubreuil, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, �
 
 <br>
 
-**Preprints**
-
-A. Dubreuil, A. Valente, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*Disentangling the roles of dimensionality and cell classes in neural computations*”, NeurIPS workshop Real Neurons and Hidden Units (2019)<br>
-[ [OpenReview](https://openreview.net/pdf?id=SklZVQtLLr) ] 
-
-<br>
-
 **PhD thesis**
 
 *"From dynamics to computations in recurrent neural networks"*, École Normale Supérieure Paris<br><u>Supervisors</u>: Srdjan Ostojic, Vincent Hakim<br><u>Committee</u>: Tatjana Tchumatchenko, Guillaume Hennequin, Jean Pierre Nadal, Peter Latham, Khashayar Pakdaman <br>[ [link](https://tel.archives-ouvertes.fr/tel-01820663/document) ]
