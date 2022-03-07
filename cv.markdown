@@ -7,15 +7,15 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(83,161,124)">Research</font></p>
 
-- Post-doctoral fellow (2018 - present)<br>
+- Post-doctoral fellow (2022 - present)<br>
+   *Champalimaud Research, Lisbon* <br>(advisor: C. Machens)
+   
+- Post-doctoral fellow (2018 - 2022)<br>
    *Gatsby Computational Neuroscience Unit, University College London* <br>(advisor: P. Latham)
 
 - PhD research student (2014 - 2018)<br>
    *Group for Neural Theory, École Normale Supérieure, Paris*<br> (advisor: S. Ostojic)
-
-- Master research student (2014)<br>
-   *Unité Physico-Chemie, Institut Curie, Paris*<br> (advisors: H. Isambert, R. Zecchina)
-
+   
 <br>
 <p><font style="color: rgb(83,161,124)">Education</font></p>
 

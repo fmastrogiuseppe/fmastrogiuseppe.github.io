@@ -14,8 +14,9 @@ layout: home
 
 <br>
 
-Hi! I am a postdoc in Theoretical Neuroscience. I study how learning shapes synaptic connectivity and dynamics in network models of cortical circuits. I am currently working at the <font style="color: rgb(83,161,124)">Gatsby Computational Neuroscience Unit</font> (UCL), where I am advised by P. Latham. Before that, I obtained my PhD at <font style="color: rgb(83,161,124)">École Normale Supérieure</font> (Paris), under the supervision of S. Ostojic.
-
+Hi! I am a postdoc in Theoretical Neuroscience. I study how learning shapes synaptic connectivity and dynamics in network models of cortical circuits. 
+I obtained my PhD at <font style="color: rgb(83,161,124)">École Normale Supérieure</font> (Paris), under the supervision of S. Ostojic.
+I then joined the <font style="color: rgb(83,161,124)">Gatsby Computational Neuroscience Unit</font> (UCL), where I worked as a post-doctoral fellow together with by P. Latham. I am currently a postdoc at the <font style="color: rgb(83,161,124)">Champalimaud Center for the Unknown</font> (Lisbon), where I am learning how to play with real neural data; I am advised by C. Machens.
 <br><br>
 
 <p align="center">
