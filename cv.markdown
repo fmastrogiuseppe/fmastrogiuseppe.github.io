@@ -19,7 +19,7 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(83,161,124)">Education</font></p>
 
-- PhD in Theoretical Neuroscience (2018) <br>*École Normale Supérieure, Paris*<br>
+- PhD in Theoretical Neuroscience (2017) <br>*École Normale Supérieure, Paris*<br>
 
 - Master in Theoretical Physics of Complex Systems, double degree (2014)<br>༶ *Politecnico di Torino, SISSA and ICTP Trieste*<br>༶ *Universités Paris 6, 7, 11, École Normale Supérieure Saclay*<br>
 
