@@ -14,7 +14,7 @@ For a fully updated list of publications, see also my [Google Scholar](http://sc
 
 A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*The role of population structure in computations through neural dynamics*”, Nature Neuroscience (2022)<br>
 [ [journal](https://www.nature.com/articles/s41593-022-01088-4#citeas) ]
-[ [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf) ]
+[ [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.03.185942.full.pdf) ] [ [github](https://github.com/adrian-valente/populations_paper_code) ]
 
 <u>F. Mastrogiuseppe</u>, N. Hiratani and P. Latham, “*Evolution of neural activity in circuits bridging sensory and abstract knowledge*”, bioRxiv (2022)<br>
 [ [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.29.478317v1.full.pdf) ]
