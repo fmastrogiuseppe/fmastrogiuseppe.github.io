@@ -38,6 +38,8 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(83,161,124)">Teaching</font></p>
 
+- Teaching Assistant for FENS Cajal Course (2022) <br>*Summer School in Computational Neuroscience*
+
 - Mentor for Neuromatch Academy (2021) <br>*Summer School in Computational Neuroscience*
 
 - Teaching Assistant for Cosyne Conference Tutorial (2021) <br>*Tutorial on Recurrent Neural Networks*
