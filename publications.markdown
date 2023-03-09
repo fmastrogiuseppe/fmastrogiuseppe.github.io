@@ -12,8 +12,8 @@ For an updated list of publications, see also my [Google Scholar](http://scholar
 
 **Journal publications**
 
-<u>F. Mastrogiuseppe</u>, N. Hiratani and P. Latham, “*Evolution of neural activity in circuits bridging sensory and abstract knowledge*”, eLife, in press (2023)<br>
-[ [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.29.478317v1.full.pdf) ] [ [github](https://github.com/fmastrogiuseppe/EvolutionActivity) ]
+<u>F. Mastrogiuseppe</u>, N. Hiratani and P. Latham, “*Evolution of neural activity in circuits bridging sensory and abstract knowledge*”, eLife (2023)<br>
+[ [journal](https://elifesciences.org/articles/79908) ] [ [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.29.478317v1.full.pdf) ] [ [github](https://github.com/fmastrogiuseppe/EvolutionActivity) ]
 
 A. Dubreuil, A. Valente, M. Beiran, <u>F. Mastrogiuseppe</u> and S. Ostojic, “*The role of population structure in computations through neural dynamics*”, Nature Neuroscience (2022)<br>
 [ [journal](https://www.nature.com/articles/s41593-022-01088-4#citeas) ]
