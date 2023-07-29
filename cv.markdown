@@ -38,7 +38,9 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(83,161,124)">Teaching</font></p>
 
-- Teaching Assistant for FENS Cajal Course (2022) <br>*Summer School in Computational Neuroscience*
+- Lecturer for EPFL Doctoral Course in NeuroPhysics (2023) <br>*Summer School in Computational Neuroscience*
+
+- Teaching Assistant for IBRO-FENS Cajal Course (2022) <br>*Summer School in Computational Neuroscience*
 
 - Mentor for Neuromatch Academy (2021) <br>*Summer School in Computational Neuroscience*
 
