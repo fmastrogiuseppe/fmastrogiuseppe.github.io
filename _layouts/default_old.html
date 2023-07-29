@@ -5,6 +5,10 @@
 
   <body>
 
+  	{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
