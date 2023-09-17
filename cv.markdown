@@ -7,6 +7,9 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(83,161,124)">Research</font></p>
 
+- Transition to Independence Fellow (2023 - present)<br>
+   *Simons Foundation* 
+   
 - Post-doctoral fellow (2022 - present)<br>
    *Champalimaud Research, Lisbon* <br>(advisor: C. Machens)
    
