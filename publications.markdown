@@ -13,7 +13,7 @@ For an updated list of publications, see also my [Google Scholar](http://scholar
 **Publications**
 
 F. Schuessler, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Aligned and oblique dynamics in recurrent neural networks*”, eLife (2024)<br>
-[ [journal](https://elifesciences.org/reviewed-preprints/93060) ] [ [arxiv](https://arxiv.org/pdf/2307.07654.pdf) ] [ [github](https://github.com/frschu/aligned_oblique_in_rnns) ]
+[ [journal](https://elifesciences.org/articles/93060) ] [ [arxiv](https://arxiv.org/pdf/2307.07654.pdf) ] [ [github](https://github.com/frschu/aligned_oblique_in_rnns) ]
 
 <u>F. Mastrogiuseppe</u>, N. Hiratani and P. Latham, “*Evolution of neural activity in circuits bridging sensory and abstract knowledge*”, eLife (2023)<br>
 [ [journal](https://elifesciences.org/articles/79908) ] [ [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.29.478317v1.full.pdf) ] [ [github](https://github.com/fmastrogiuseppe/EvolutionActivity) ]
