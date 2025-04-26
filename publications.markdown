@@ -12,6 +12,9 @@ For an updated list of publications, see also my [Google Scholar](http://scholar
 
 **Publications**
 
+<u>F. Mastrogiuseppe</u>, J. Carmona and C. Machens, “*Stochastic activity in low-rank recurrent neural networks*”, biorXiv (2025)<br>
+[ [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.22.649933v1) ] [ [github](https://github.com/fmastrogiuseppe/StochasticLowRank) ]
+
 F. Schuessler, <u>F. Mastrogiuseppe</u>, S. Ostojic and O. Barak, “*Aligned and oblique dynamics in recurrent neural networks*”, eLife (2024)<br>
 [ [journal](https://elifesciences.org/articles/93060) ] [ [arxiv](https://arxiv.org/pdf/2307.07654.pdf) ] [ [github](https://github.com/frschu/aligned_oblique_in_rnns) ]
 
