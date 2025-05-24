@@ -14,7 +14,7 @@ layout: home
 
 <br>
 
-<font style="color: rgb(255,18,106)"> **I am starting a research group in October 2025!** Please reach out if you are interested in postdoc, PhD, and intership positions </font>
+**\**** **I am starting a research group in October 2025!** Please reach out if you are interested in postdoc, PhD, and intership positions **\****
 
 Hi! I am a researcher in Theoretical Neuroscience. I use neural network models, dynamical systems and statistical tools such as dimensionality reduction for understanding brain computations.
 
