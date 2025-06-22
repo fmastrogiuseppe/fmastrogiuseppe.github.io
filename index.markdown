@@ -8,7 +8,7 @@ layout: home
 <br>
 
 <p align="center">
-<img src="artwork.gif" style="zoom:33%;" />
+<img src="artwork.gif" style="zoom:100%;" />
 </p>
 
 
