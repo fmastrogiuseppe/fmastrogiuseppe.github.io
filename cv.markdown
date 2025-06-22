@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <br>
-<p><font style="color: rgb(83,161,124)">Research</font></p>
+<p><font style="color: rgb(153,0,76)">Research</font></p>
 
 - Transition to Independence Fellow (2023 - present)<br>
    *Simons Foundation* 
@@ -20,7 +20,7 @@ permalink: /cv/
    *Group for Neural Theory, École Normale Supérieure, Paris*<br> (advisor: S. Ostojic)
    
 <br>
-<p><font style="color: rgb(83,161,124)">Education</font></p>
+<p><font style="color: rgb(153,0,76)">Education</font></p>
 
 - PhD in Theoretical Neuroscience (2017) <br>*École Normale Supérieure, Paris*<br>
 
@@ -30,7 +30,7 @@ permalink: /cv/
   *University of Bologna*
 
 <br>
-<p><font style="color: rgb(83,161,124)">Intensive Courses</font></p>
+<p><font style="color: rgb(153,0,76)">Intensive Courses</font></p>
 
 - Cajal Course in Computational Neuroscience (2016)<br>*Champalimaud Center for the Unknown, Lisbon*
 
@@ -39,7 +39,7 @@ permalink: /cv/
 - Physics of Complex Systems Spring School (2014)<br>*International Center for Theoretical Physics, Trieste*
 
 <br>
-<p><font style="color: rgb(83,161,124)">Teaching</font></p>
+<p><font style="color: rgb(153,0,76)">Teaching</font></p>
 
 - Lecturer for EPFL Doctoral Course in NeuroPhysics (2023) <br>*Summer School in Computational Neuroscience*
 
