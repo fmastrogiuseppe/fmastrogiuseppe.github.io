@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-<img src="artwork.gif"/>
+<img src="artwork.gif" style="zoom:100%;" />
 </p>
 
 
