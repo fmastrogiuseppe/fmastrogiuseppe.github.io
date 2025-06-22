@@ -30,34 +30,3 @@ permalink: /cv/
   *University of Bologna*
 
 <br>
-<p><font style="color: rgb(153,0,76)">Intensive Courses</font></p>
-
-- Cajal Course in Computational Neuroscience (2016)<br>*Champalimaud Center for the Unknown, Lisbon*
-
-- Methods in Computational Neuroscience (2015)<br>*Marine Biological Laboratory, Woods Hole*
-
-- Physics of Complex Systems Spring School (2014)<br>*International Center for Theoretical Physics, Trieste*
-
-<br>
-<p><font style="color: rgb(153,0,76)">Teaching</font></p>
-
-- Lecturer for EPFL Doctoral Course in NeuroPhysics (2023) <br>*Summer School in Computational Neuroscience*
-
-- Teaching Assistant for IBRO-FENS Cajal Course (2022) <br>*Summer School in Computational Neuroscience*
-
-- Mentor for Neuromatch Academy (2021) <br>*Summer School in Computational Neuroscience*
-
-- Teaching Assistant for Cosyne Conference Tutorial (2021) <br>*Tutorial on Recurrent Neural Networks*
-
-- Guest Lecturer for Theoretical Neuroscience course (2020)<br>*Gatsby Computational Neuroscience Unit Graduate program*
-
-- Teaching Assistant for Advanced Theoretical Neuroscience course (2018)<br>*Master of Cognitive Science, École Normale Supérieure Paris*
-
-- Lecturer of Theoretical Modelling practical course (2017)<br>*Master of Cognitive Science, École Normale Supérieure Paris*
-
-- Lecturer of Theoretical Modelling practical course (2016)<br>*Master of Cognitive Science, École Normale Supérieure Paris*
-
-- Lecturer of Theoretical Modelling practical course (2015)<br>*Master of Cognitive Science, École Normale Supérieure Paris*
-
-
-<br>
