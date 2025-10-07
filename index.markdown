@@ -12,7 +12,7 @@ layout: home
 
 <br>
 
-**\**** **I am starting a research group in October 2025!** Please reach out if you are interested in postdoc, PhD, and intership positions **\****
+**\**** **I am starting a research group at SISSA in October 2025!** Please reach out if you are interested in postdoc, PhD, and intership positions **\****
 
 Hi! I am a researcher in Theoretical Neuroscience. I use neural network models, dynamical systems and statistical tools such as dimensionality reduction for understanding brain computations.
 
