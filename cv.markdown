@@ -13,10 +13,10 @@ permalink: /cv/
 - Transition to Independence Fellow (2023 - present)<br>
    *Simons Foundation, Collaboration Global Brain* 
    
-- Postdoctoral fellow (2022 - 2025)<br>
+- Post-doctoral fellow (2022 - 2025)<br>
    *Champalimaud Foundation, Lisbon*
    
-- Postdoctoral fellow (2018 - 2022)<br>
+- Post-doctoral fellow (2018 - 2022)<br>
    *Gatsby Computational Neuroscience Unit, University College London*
    
 <br>
