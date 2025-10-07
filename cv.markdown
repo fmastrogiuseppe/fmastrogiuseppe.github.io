@@ -7,17 +7,20 @@ permalink: /cv/
 <br>
 <p><font style="color: rgb(153,0,76)">Research</font></p>
 
+- Assistant Professor - RTDB (2025 - present)<br>
+   *SISSA, Italy*
+  
 - Transition to Independence Fellow (2023 - present)<br>
    *Simons Foundation* 
    
-- Post-doctoral fellow (2022 - present)<br>
-   *Champalimaud Research, Lisbon* <br>(advisor: C. Machens)
+- Post-doctoral fellow (2022 - 2025)<br>
+   *Champalimaud Foundation, Lisbon* <br>(advisor: C. Machens)
    
 - Post-doctoral fellow (2018 - 2022)<br>
    *Gatsby Computational Neuroscience Unit, University College London* <br>(advisor: P. Latham)
 
 - PhD research student (2014 - 2018)<br>
-   *Group for Neural Theory, École Normale Supérieure, Paris*<br> (advisor: S. Ostojic)
+   *École Normale Supérieure Paris*<br> (advisor: S. Ostojic)
    
 <br>
 <p><font style="color: rgb(153,0,76)">Education</font></p>
