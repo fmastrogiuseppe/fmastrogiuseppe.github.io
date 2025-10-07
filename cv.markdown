@@ -8,7 +8,7 @@ permalink: /cv/
 <p><font style="color: rgb(153,0,76)">Research</font></p>
 
 - Assistant Professor - RTDB (2025 - present)<br>
-   *SISSA, Italy*
+   *SISSA, Trieste*
   
 - Transition to Independence Fellow (2023 - present)<br>
    *Simons Foundation* 
