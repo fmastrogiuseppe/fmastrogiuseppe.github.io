@@ -14,13 +14,10 @@ permalink: /cv/
    *Simons Foundation* 
    
 - Post-doctoral fellow (2022 - 2025)<br>
-   *Champalimaud Foundation, Lisbon* <br>(advisor: C. Machens)
+   *Champalimaud Foundation, Lisbon*
    
 - Post-doctoral fellow (2018 - 2022)<br>
-   *Gatsby Computational Neuroscience Unit, University College London* <br>(advisor: P. Latham)
-
-- PhD research student (2014 - 2018)<br>
-   *École Normale Supérieure Paris*<br> (advisor: S. Ostojic)
+   *Gatsby Computational Neuroscience Unit, University College London*
    
 <br>
 <p><font style="color: rgb(153,0,76)">Education</font></p>
