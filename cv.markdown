@@ -11,7 +11,7 @@ permalink: /cv/
    *SISSA, Trieste*
   
 - Transition to Independence Fellow (2023 - present)<br>
-   *Simons Foundation* 
+   *Simons Foundation, Collaboration Global Brain* 
    
 - Post-doctoral fellow (2022 - 2025)<br>
    *Champalimaud Foundation, Lisbon*
