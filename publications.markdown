@@ -13,7 +13,7 @@ For an updated list of publications, see also my [Google Scholar](http://scholar
 **Publications**
 
 A. Di Bernardo, A. Valente, <u>F. Mastrogiuseppe</u>, S. Ostojic. “*Shaping manifolds in equivariant recurrent neural networks*”, arXiv (2025)<br>
-[ [arXiv](https://arxiv.org/pdf/2511.04802)) ]
+[ [arXiv](https://arxiv.org/pdf/2511.04802) ]
 
 <u>F. Mastrogiuseppe</u>, J. Carmona and C. Machens. “*Stochastic activity in low-rank recurrent neural networks*”, PLOS Computational Biology (2025)<br>
 [ [journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013371) ] [ [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.22.649933v1) ] [ [github](https://github.com/fmastrogiuseppe/StochasticLowRank) ]
