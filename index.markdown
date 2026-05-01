@@ -14,11 +14,10 @@ layout: home
 
 **\**** **I am starting a research group at SISSA in October 2025!** Please reach out if you are interested in postdoc, PhD, and intership positions **\****
 
-Hi! I am a researcher in Theoretical Neuroscience. I use neural network models, dynamical systems and statistical tools such as dimensionality reduction for understanding brain computations.
+Hi! I am an Assistant Professor (RTDB) at SISSA, Trieste. In our group, we use neural network models, dynamical systems and statistical tools to understand brain computations. For more information, check the [ <a href="https://datascience.sissa.it/research-unit/429/theoretical-neuroscience">lab webpage</a> ]. *If you are interested in postdoc, PhD, and intership positions, please reach out.*
 
 I obtained my PhD at <font style="color: rgb(153,0,76)">École Normale Supérieure</font> (Paris), under the supervision of S. Ostojic.
-I then joined the <font style="color: rgb(153,0,76)">Gatsby Computational Neuroscience Unit</font> (UCL), where I worked as a post-doctoral fellow together with by P. Latham. In those years, I developed mathematical tools to investigate how computations emerge from the synaptic connectivity and activity of artificial and biological circuits.
-I am currently a postdoc at the <font style="color: rgb(153,0,76)">Champalimaud Center for the Unknown</font> (Lisbon), where I am working on deciphering large-scale neural datasets, and I am advised by C. Machens. I am also a <font style="color: rgb(153,0,76)">Simons Foundation Independence Fellow</font>.
+I then joined the <font style="color: rgb(153,0,76)">Gatsby Computational Neuroscience Unit</font> (UCL), where I worked as a post-doctoral fellow together with by P. Latham. I then moved to the <font style="color: rgb(153,0,76)">Champalimaud Center for the Unknown</font> (Lisbon), where I was advised by C. Machens. I am a <font style="color: rgb(153,0,76)">Simons Foundation Independence Fellow</font>.
 <br><br>
 
 <p align="center">
